@@ -1,0 +1,37 @@
+{
+  "name": "koa-jiudao",
+  "version": "1.0.0",
+  "description": "node js 的一般用法 1. 脱离浏览器运行 js 2. NodeJS stream （前端工程化基础） 3. 服务端API 4. 作为中间层",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loloao/koa-jiudao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loloao/koa-jiudao/issues"
+  },
+  "homepage": "https://github.com/Loloao/koa-jiudao#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "basic-auth": "^2.0.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^9.4.0",
+    "koa-static": "^5.0.0",
+    "lodash": "^4.17.20",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.4",
+    "npm-check": "^5.9.2",
+    "require-directory": "^2.1.1",
+    "sequelize": "^6.3.4",
+    "validator": "^13.1.1"
+  }
+}
