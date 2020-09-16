@@ -1,6 +1,8 @@
 const Koa = require('koa')
 const InitManager = require('./core/init')
 
+require('./app/models/user')
+
 const app = new Koa()
 
 InitManager.initCore(app)

@@ -31,7 +31,7 @@
     "nodemon": "^2.0.4",
     "npm-check": "^5.9.2",
     "require-directory": "^2.1.1",
-    "sequelize": "^6.3.4",
+    "sequelize": "^6.3.5",
     "validator": "^13.1.1"
   }
 }
